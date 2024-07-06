@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+/* buttons part starts here  */
+.buttons{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+button{
+    height: 3rem;
+    width: 6rem;
+}
+/* buttons part ends here  */
+
+/* main tag starts here  */
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #17d1c8;
+}
+/* main tag ends here  */
+
+/* paragraph tag starts here  */
+.paragraph{
+    width: 540px;
+    height: 100px;
+    margin:0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* paragraph tag ends here  */
+
+/* it cantains paragraph and buttons  */
+.all-things{
+    height: 300px;
+    width: 550px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
