@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.btn{
+    background-color: gray;
+    width: 500px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    gap: 2rem;
+}
+button{
+    height: 3rem;
+    width: 6rem;
+}
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
