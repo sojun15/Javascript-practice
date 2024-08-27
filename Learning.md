@@ -12,3 +12,17 @@
 
 ## ForOf loop
     - for of loop is used take element from both array of number and string
+
+## Function
+    - function are different types such as anonymous, arrow, restParameter and so on.
+    - Anonymous function means this types of function which haven't any name.
+
+## array
+    - array are different types such as single,multi dimension, map and so on.
+    - array destructuring means complex array divide into small parts
+    - set don't keep same value into collection
+
+## class & object
+    - In class normal method, variable are directly connected with class object that means for accessing that elements we need to create object
+    - In class static method, variable are directly connected with class, not object that means for accessing that elements we needn't to create object.we can access through class name.
+    - constructor is like a function but it can't return anything. For one class there have only one constructor.
