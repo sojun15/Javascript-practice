@@ -4,8 +4,8 @@ function simple(){
 
 console.log(simple());
 
-function simple2(text){
-    return text;
+function simple2(text,value){
+    return `${text} = ${value}`;
 }
 
-console.log(simple2('simple function with parameter'));
+console.log(simple2('parameter, number',15));
