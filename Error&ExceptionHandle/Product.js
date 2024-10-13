@@ -38,12 +38,14 @@ let b = 16;
 // }
 // console.log('chandra');
 
-let age = Number(prompt('enter your age:'));
-if(age>=0 && age<=150)
-{
-    console.log('you are alive');
-}
-else 
-{
-    throw new Error('you enter invalid age');
-}
+//? creating error message as my wish
+// let age = Number(prompt('enter your age:'));
+// if(age>=0 && age<=150)
+// {
+//     console.log('you are alive');
+// }
+// else 
+// {
+//     throw new Error('you enter invalid age');
+// }
+
